@@ -1,3 +1,6 @@
 [submodule "Rosalind"]
 	path = Rosalind
 	url = https://github.com/jbsilva/Rosalind.git
+[submodule "jbiolib"]
+	path = jbiolib
+	url = https://github.com/jbsilva/jbiolib
