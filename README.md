@@ -11,6 +11,7 @@ bioinformatics:
 *   [Einführung in die Bioinformatik][Bioinf_RWTH], WS of 2014 at the [RWTH Aachen University][RWTH];
 *   [Bioinformatics Algorithms (Part 1)][B1_Coursera] at [Coursera][];
 *   [Bioinformatics Algorithms (Part 2)][B2_Coursera] at [Coursera][];
+*   [Computational Biology][CompBio_MIT] at [MIT OCW][];
 *   [Rosalind][];
 *   Books:
     *   [Bioinformatics Algorithms: an Active Learning Approach][Compeau]
@@ -30,3 +31,5 @@ publication of code outside of the [Rosalind][] website to avoid plagiarism.
 [Durbin]: http://www.amazon.com/Biological-Sequence-Analysis-Probabilistic-Proteins/dp/0521629713
 [Compeau]: http://bioinformaticsalgorithms.com/
 [Rosalind_repo]: https://github.com/jbsilva/Rosalind
+[MIT OCW]: http://ocw.mit.edu
+[CompBio_MIT]: http://ocw.mit.edu/courses/find-by-topic/#cat=engineering&subcat=biologicalengineering&spec=computationalbiology
